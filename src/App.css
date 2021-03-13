@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(218, 221, 250);
+}
+
+.individual-image {
+    position: relative;
+    width:18%;
+    float:left;
+    top: 80px;
+    left: 50px;
+    max-width:100%;
+    
+    
+}
+
+h1 {
+    color: rgb(51, 51, 235);
+    font-family: 'Courier New', Courier, monospace;
+    left: 250px;
+    position: absolute;
+}
+
+h2 {
+    color: rgb(250, 87, 101);
+    font-family: 'Courier New', Courier, monospace;
+    left: 700px;
+    position: absolute;
+    top:21px;
+
+}
